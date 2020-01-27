@@ -20,7 +20,7 @@
 ### R Project
 
 - [Project 1 Title](/html/vanpelt_HuidiHu_JingZhang)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/r1.jfif?raw=true"/>
 
 ---
 
