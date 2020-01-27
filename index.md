@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### ArcGIS Project 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/0126.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,10 @@
 
 ---
 
-### Category Name 2
+### R Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](/html/vanpelt_HuidiHu_JingZhang)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
