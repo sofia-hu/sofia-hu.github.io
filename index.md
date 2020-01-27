@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### ArcGIS Project 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/0126.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
