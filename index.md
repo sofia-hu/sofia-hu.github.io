@@ -2,9 +2,9 @@
 
 ---
 
-### CV
+### Resume
 
-- [CV Huidi_Hu](/pdf/CV_Huidi_Hu.pdf)
+- [Resume Huidi_Hu](/pdf/Resume_Huidi_Hu.pdf)
 
 ---
 
@@ -17,6 +17,15 @@
 
 ### R Project
 
+- [Forecasting Flood Inundation](/html/CPLN675_mid_HuidiHu)
+<img src="images/mid.png?raw=true"/>
+- [YouTube Video](http://youtu.be/UClVWeUG6QA)
+
+---
+- [Urban Growth Modeling](/html/CPLN675_final_HuidiHu)
+<img src="images/final.png?raw=true"/>
+
+---
 - [Hedonic Home Price Prediction, San Francisco (developed in collaboration with Jing  Zhang)](/html/vanpelt_HuidiHu_JingZhang)
 <img src="images/r1.jfif?raw=true"/>
 
@@ -27,6 +36,8 @@
 ---
 
 ### Writing Sample
+
+- [Policy Brief – Flood Inundation Modelling and Planning Center](/pdf/CPLN675_HW2_Huidi_Hu.pdf)
 
 - [Employment Trends & Projections, Philadelphia](/pdf/HW3_Huidi_Hu.pdf)
 
