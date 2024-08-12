@@ -2,9 +2,9 @@
 
 ---
 
-### Resume
+### Curriculum Vitae
 
-- [Resume Huidi_Hu](/pdf/Resume_Huidi_Hu.pdf)
+- [CV Huidi_Hu](/pdf/CV_Huidi_Hu_0812.pdf)
 
 ---
 
@@ -15,8 +15,19 @@
 
 ---
 
+### Python Project 
+
+- [Is COVID-19 changing the spatial pattern of car crashes in major US cities?](https://sofia-hu.github.io/CPLN672/)
+<img src="images/ny2020cluster2.png?raw=true"/>
+
+---
+
 ### R Project
 
+- [Fire Response Situational Awareness API](https://pennmusa.github.io/MUSA_801.io/project_19/)
+<img src="images/logo_musa801.png?raw=true"/>
+
+---
 - [Forecasting Flood Inundation](/html/CPLN675_mid_HuidiHu)
 <img src="images/mid.png?raw=true"/>
 - [YouTube Video](http://youtu.be/UClVWeUG6QA)
